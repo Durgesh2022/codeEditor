@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.comment {
+    color: green;
+    font-style: italic;
+  }
+  
+  .string {
+    color: red;
+  }
+  
+  .keyword {
+    color: blue;
+    font-weight: bold;
+  }
+  
+  .number {
+    color: purple;
+  }
+  
